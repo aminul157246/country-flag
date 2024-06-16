@@ -1,0 +1,9 @@
+.country-css{
+    border: 2px solid steelblue;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 16px;
+}
+.visited-css{
+    background: aquamarine;
+}
